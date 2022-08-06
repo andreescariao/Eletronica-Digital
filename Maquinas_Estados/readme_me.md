@@ -1,3 +1,5 @@
+Máquinas de Estados Finita
+
 Questão 2
 Um engenheiro está trabalhando na análise da implementação de uma máquina de estados finitos que detecta sequência(s) em Verilog. Para tanto, ele recebeu o código apresentado abaixo. Analisando o código apresentado e os pontos I, II e III levantados pelo engenheiro, marque a alternativa correta.
  
