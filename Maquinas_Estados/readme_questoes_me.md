@@ -89,3 +89,61 @@ x -> s2 -> s2
 e, ao receber o 3° bit (0) estando no estado s2, a saída será 1.
 
 ---------------------------------------------------------------------------------------------------
+
+Questão 6
+Um engenheiro está trabalhando na análise da implementação de uma máquina de estados finitos que detecta sequência(s) em Verilog. Para tanto, ele recebeu o código apresentado abaixo. Analisando o código apresentado e os pontos I, II e III levantados pelo engenheiro, marque a alternativa correta.
+
+ 
+
+I. É uma FSM do tipo Mealy
+
+II. Detecta a sequência 110
+
+III. Detecta a sequência 101
+
+Resposta: I e III.
+
+---------------------------------------------------------------------------------------------------
+
+Questão 7
+Um engenheiro está trabalhando na análise da implementação de uma máquina de estados finitos que detecta sequência(s) em Verilog. Para tanto, ele recebeu o código apresentado abaixo. Analisando o código apresentado e os pontos I, II e III levantados pelo engenheiro, marque a alternativa correta.
+
+ 
+
+I. É uma FSM do tipo Mealy
+
+II. Detecta a sequência 101
+
+III. Detecta a sequência 111
+
+Resposta: Todas as alternativas.
+
+---------------------------------------------------------------------------------------------------
+
+Questão 8
+Um engenheiro está trabalhando na análise da implementação de uma máquina de estados finitos que detecta sequência(s) em Verilog. Para tanto, ele recebeu o código apresentado abaixo. Analisando o código apresentado e os pontos I, II e III levantados pelo engenheiro, marque a alternativa correta.
+
+
+
+I. É uma FSM do tipo Mealy
+
+II. Detecta a sequência 110
+
+III. Detecta a sequência 101
+
+Resposta: I e III.
+
+---------------------------------------------------------------------------------------------------
+
+Questão 9
+Um engenheiro está trabalhando na análise da implementação de uma máquina de estados finitos que detecta sequência(s) em Verilog. Para tanto, ele recebeu o código apresentado abaixo. Analisando o código apresentado e os pontos I, II e III levantados pelo engenheiro, marque a alternativa correta.
+
+
+
+I. É uma FSM do tipo Mealy
+
+II. Detecta a sequência 101
+
+III. Detecta a sequência 011
+
+Resposta: I e II.
